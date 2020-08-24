@@ -25,6 +25,7 @@
         }
     ],
     "require": {
+        "aten/aten-standard": "dev-master",
         "composer/installers": "^1.2",
         "hirak/prestissimo": "^0.3.10",
         "drupal/core-recommended": "^9.0",
