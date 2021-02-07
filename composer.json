@@ -40,6 +40,7 @@
         "geerlingguy/drupal-vm": "^6.0"
     },
     "extra": {
+        "patches-file": "./composer.patches.json",
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
