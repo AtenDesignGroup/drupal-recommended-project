@@ -33,11 +33,15 @@
         "oomphinc/composer-installers-extender": "^2.0"
     },
     "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+        "drupal/coder": "^8.3",
         "drush/drush": "^10.0",
+        "geerlingguy/drupal-vm": "^6.0",
+        "phpmd/phpmd": "^2.9",
         "pr0ject-x/px": "^1.0",
         "pr0ject-x/px-drupal": "^1.0",
         "pr0ject-x/px-drupalvm": "^1.0",
-        "geerlingguy/drupal-vm": "^6.0"
+        "squizlabs/php_codesniffer": "^3.5"
     },
     "extra": {
         "drupal-scaffold": {
