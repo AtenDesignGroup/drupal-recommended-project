@@ -1,6 +1,5 @@
+environment: drupalvm
 plugins:
-    environment:
-        type: drupalvm
     drupal:
         drupal_root: web
         provider: drush
