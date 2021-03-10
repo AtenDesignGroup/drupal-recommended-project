@@ -44,6 +44,7 @@
         "squizlabs/php_codesniffer": "^3.5"
     },
     "extra": {
+        "patches-file": "./composer.patches.json",
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
