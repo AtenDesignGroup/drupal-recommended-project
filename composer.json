@@ -27,9 +27,19 @@
     "require": {
         "aten/aten_standard": "^1.0",
         "composer/installers": "^1.2",
-        "drupal/core-recommended": "^8.9",
-        "drupal/core-composer-scaffold": "^8.9",
         "cweagans/composer-patches": "1.x-dev",
+        "drupal/admin_toolbar": "^3.0",
+        "drupal/ckeditor_a11ychecker": "^1.0",
+        "drupal/core-composer-scaffold": "^8.9",
+        "drupal/core-recommended": "^8.9",
+        "drupal/field_group": "^3.1",
+        "drupal/gin": "^3.0@alpha",
+        "drupal/gin_toolbar": "^1.0@beta",
+        "drupal/google_tag": "^1.4",
+        "drupal/metatag": "^1.16",
+        "drupal/multiple_selects": "^1.0",
+        "drupal/pathauto": "^1.8",
+        "drupal/redirect": "^1.6",
         "oomphinc/composer-installers-extender": "^2.0"
     },
     "require-dev": {
