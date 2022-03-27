@@ -41,13 +41,13 @@
         "drupal/pathauto": "^1.8",
         "drupal/prototype": "^2.0@alpha",
         "drupal/redirect": "^1.6",
+        "drush/drush": "^10.0",
         "oomphinc/composer-installers-extender": "^2.0"
     },
     "require-dev": {
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
         "drupal/coder": "^8.3",
         "drupal/stage_file_proxy": "^1.1",
-        "drush/drush": "^10.0",
         "geerlingguy/drupal-vm": "^6.0",
         "phpmd/phpmd": "^2.9",
         "pr0ject-x/px": "^1.0",
