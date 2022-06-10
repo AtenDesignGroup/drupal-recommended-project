@@ -39,7 +39,7 @@
         "drupal/metatag": "^1.16",
         "drupal/multiple_selects": "^1.0",
         "drupal/pathauto": "^1.8",
-        "drupal/prototype": "^2.0@alpha",
+        "drupal/prototype": "4.x-dev",
         "drupal/redirect": "^1.6",
         "drush/drush": "^10.0",
         "oomphinc/composer-installers-extender": "^2.0"
