@@ -14,11 +14,5 @@ Most of the platforms might offer their own solutions to these problems, but our
 ### Drupal 9
 
 ```
-composer create-project "aten/drupal-recommended-project:9.x-dev" [SITE-NAME]
-```
-
-### Drupal 8
-
-```
-composer create-project "aten/drupal-recommended-project:8.x-dev" [SITE-NAME]
+composer create-project "aten/drupal-recommended-project" [SITE-NAME]
 ```
