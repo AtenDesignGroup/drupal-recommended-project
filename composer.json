@@ -47,6 +47,7 @@
     "require-dev": {
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
         "drupal/coder": "^8.3",
+        "drupal/devel": "^4.1",
         "drupal/stage_file_proxy": "^1.1",
         "geerlingguy/drupal-vm": "^6.0",
         "phpmd/phpmd": "^2.9",
