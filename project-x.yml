@@ -1,4 +1,3 @@
-environment: drupalvm
 plugins:
     drupal:
         drupal_root: web
