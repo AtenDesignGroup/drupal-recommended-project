@@ -16,3 +16,7 @@ Most of the platforms might offer their own solutions to these problems, but our
 ```
 composer create-project "aten/drupal-recommended-project" [SITE-NAME]
 ```
+
+### Setting up Cypress testing locally
+
+This project contains resources for running Cypress tests in your local Lando-based dev environment. Please see /tests/cypress/README.md for instructions.
