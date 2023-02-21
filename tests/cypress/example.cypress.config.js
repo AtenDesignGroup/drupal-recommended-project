@@ -7,6 +7,7 @@ module.exports = defineConfig({
     integrationFolder: "tests/cypress/integration",
     pluginsFile: "tests/cypress/plugins/index.js",
     screenshotsFolder: "tests/cypress/screenshots",
+    downloadsFolder: "tests/cypress/downloads",
     supportFile: "tests/cypress/support/e2e.js",
     videosFolder: "tests/cypress/videos",
     viewportWidth: 1440,
