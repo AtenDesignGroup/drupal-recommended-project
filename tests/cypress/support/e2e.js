@@ -16,5 +16,8 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 
+// Optionally, uncomment the following line to use cypress video recorder.
+// import 'cypress-video-recorder/support';
+
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
