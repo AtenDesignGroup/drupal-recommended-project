@@ -1,0 +1,20 @@
+{
+  "name": "aten_drupal_project",
+  "version": "1.0.0",
+  "description": "Cypress setup for Aten Drupal Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:AtenDesignGroup/drupal-recommended-project.git"
+},
+  "author": "Jordan Graham",
+  "license": "ISC",
+  "bugs": {},
+    "homepage": "https://github.com/AtenDesignGroup/drupal-recommended-project",
+    "devDependencies": {
+    "cypress": "^12.4.1"
+  }
+}
