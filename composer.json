@@ -48,8 +48,6 @@
         "drupal/redirect": "^1.6",
         "drush/drush": "^10.0",
         "oomphinc/composer-installers-extender": "^2.0",
-        "pr0ject-x/px": "^1.0",
-        "pr0ject-x/px-drupal": "^1.0"
     },
     "require-dev": {
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
