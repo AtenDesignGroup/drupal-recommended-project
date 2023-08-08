@@ -7,9 +7,6 @@
     "minimum-stability": "dev",
     "config": {
         "sort-packages": true,
-        "platform": {
-            "php": "7.3"
-        },
         "allow-plugins": {
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
