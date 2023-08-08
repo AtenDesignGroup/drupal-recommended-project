@@ -34,7 +34,6 @@
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "1.x-dev",
         "drupal/admin_toolbar": "^3.0",
-        "drupal/ckeditor_a11ychecker": "^1.0",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
