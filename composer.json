@@ -12,7 +12,8 @@
             "drupal/core-composer-scaffold": true,
             "composer/installers": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": true,
+            "drupal/core-project-message": true
         }
     },
     "conflict": {
